@@ -1,3 +1,3 @@
 #harshitha
 x=str(input())
-print(a[::-1])
+print(x[::-1])
